@@ -1,3 +1,5 @@
+Para rodar os testes, basta entrar na pasta dos testes e rodar <b><i>'npm test'</b></i> no terminal, tendo npm instalado.
+
 <h2>Diferentes testes unitários em Javascript.</h2>
 
 :fries: <b>Restaurant:</b>
