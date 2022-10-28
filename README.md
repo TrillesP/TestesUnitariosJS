@@ -1,4 +1,4 @@
-Para rodar os testes, basta entrar na pasta dos testes e rodar <b><i>'npm test'</b></i> no terminal, tendo npm instalado.
+Para fazer os testes a seguir, basta abrir a pasta do projeto no Visual Studio Code e rodar <b><i>'npm test'</b></i> no terminal, tendo npm instalado.
 
 <h2>Diferentes testes unitários em Javascript.</h2>
 
