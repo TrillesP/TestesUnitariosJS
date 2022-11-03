@@ -1,4 +1,12 @@
-Para fazer os testes a seguir, basta abrir a pasta do projeto no Visual Studio Code e rodar <b><i>'npm test'</b></i> no terminal, tendo npm instalado.
+<b>Instalando Jest</b>
+
+Para fazer os testes a seguir, basta abrir a pasta do projeto no Visual Studio Code e rodar `npm test` no terminal, tendo npm e Jest instalados.
+
+Para instalar o Jest entre na pasta do seu projeto e rode no terminal `npm init -y`.
+
+No arquivo package.json criado, vá em "scripts" e na chave "test" altere o valor para "jest".
+
+Depois instale o Jest rodando no terminal `npm install --save-dev jest`.
 
 <h2>Diferentes testes unitários em Javascript.</h2>
 
